@@ -1,0 +1,3 @@
+name: fantah-t3
+main: com.tenjava.entries.fantah.t3.TenJava
+version: '${project.version}'
